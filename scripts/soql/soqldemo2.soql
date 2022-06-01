@@ -1,0 +1,3 @@
+
+SELECT ID, name, Account.Name From COntact Where Account.Industry = 'Energy'
+
